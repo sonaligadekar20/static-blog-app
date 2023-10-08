@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Deepak Chopra",
+        "image": "https://static.javatpoint.com/top10-technologies/images/india-top-10-motivational-speaker1.png ",
+        "description": "At that time, India was under British control. To be a self-help expert, Deepak Chopra has expertise in Western medicine.  "
+    },
+    {
+        "id": 2,
+        "name": " Sandeep Maheshwari",
+        "image": "https://static.javatpoint.com/top10-technologies/images/india-top-10-motivational-speaker2.png ",
+        "description": " Sandeep Maheshwari also loves to do photography, and he is also the CEO and Founder of Images Bazaar, a collection of Indian images that is the largest in the world."
+    },
+    {
+        "id": 3,
+        "name": " Vivek Bindra",
+        "image": "https://static.javatpoint.com/top10-technologies/images/india-top-10-motivational-speaker3.png ",
+        "description": " Dr. Vivek Bindra is one of today's most well-known motivational speakers, business coaches, and trainers. Vivek Bindra's early life was full of struggle when he was 2.5 years old; he lost his father. Despite this, he inspired millions of people through his speeches and business training."
+
+    }
+]
