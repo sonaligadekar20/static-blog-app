@@ -3,18 +3,24 @@
         "id": 1,
         "name": "Deepak Chopra",
         "image": "https://static.javatpoint.com/top10-technologies/images/india-top-10-motivational-speaker1.png ",
-        "description": "At that time, India was under British control. To be a self-help expert, Deepak Chopra has expertise in Western medicine.  "
+        "description": "Deepak Chopra is also the author of more than 80 books translated into forty languages. He has had several books listed in the New York Times Best Sellers. ",
+        "information": "Deepak Chopra was born on October 22, 1946, in New Delhi. At that time, India was under British control. To be a self-help expert, Deepak Chopra has expertise in Western medicine. As well as being a doctor and a spiritual trainer, he is a motivational speaker who speaks about body, mind, and health. He has influenced many people through his ideas, books, and seminars. Deepak Chopra is also the author of more than 80 books translated into forty languages. He has had several books listed in the New York Times Best Sellers. Chopra is the author of many bestselling books on general health and wellness, including The Seven Spiritual Laws of Success, Perfect Health, The Book of Secrets, and many others.The Indian government had banned its doctors from sitting for the exam needed to practice in the United States. Consequently, Chopra had to travel to Sri Lanka to take it.",
+        "books":["https://m.media-amazon.com/images/I/91oKKezrg0L._AC_UF1000,1000_QL80_.jpg", "https://www.deepakchopra.com/wp-content/uploads/2020/07/TM_slide.png", "https://images.penguinrandomhouse.com/cover/9780451495549"]
     },
     {
         "id": 2,
         "name": " Sandeep Maheshwari",
         "image": "https://static.javatpoint.com/top10-technologies/images/india-top-10-motivational-speaker2.png ",
-        "description": " Sandeep Maheshwari also loves to do photography, and he is also the CEO and Founder of Images Bazaar, a collection of Indian images that is the largest in the world."
+        "description": " Sandeep Maheshwari also loves to do photography, and he is also the CEO and Founder of Images Bazaar, a collection of Indian images that is the largest in the world.",
+        "information": "Sandeep Maheshwari has brought a change in the lives of millions of people with his speeches. No doubt, he is one of the best motivational speakers in India. He is most followed and liked in India as a motivational speaker. Sandeep was born in a middle-class family. He is not only a motivational speaker but also a successful entrepreneur. Sandeep Maheshwari also loves to do photography, and he is also the CEO and Founder of Images Bazaar, a collection of Indian images that is the largest in the world.Sandeep Maheshwari wants to share his experience with the youth of India. Due to this, he is very popular among the youth. Sandeep Maheshwari also has a channel on YouTube named Sandeep Maheshwari. Where he keeps posting his videos, he has around 22 million followers on YouTube. Sandeep Maheshwari has seen a lot of failures in his life, and perhaps because of this, he is one of the best motivational speakers of India today.",
+        "books":["https://m.media-amazon.com/images/I/51EGgFq1p+L.jpg", "https://image.slidesharecdn.com/controlyourmind-200719045741/85/how-to-control-your-mind-by-sandeep-maheshwari-1-320.jpg?cb=1671829167", "https://m.media-amazon.com/images/I/41xuYD6wRiL.jpg"]
     },
     {
         "id": 3,
         "name": " Vivek Bindra",
         "image": "https://static.javatpoint.com/top10-technologies/images/india-top-10-motivational-speaker3.png ",
-        "description": " Dr. Vivek Bindra is one of today's most well-known motivational speakers, business coaches, and trainers. "
+        "description": " Dr. Vivek Bindra is one of today's most well-known motivational speakers, business coaches, and trainers.",
+        "information":"Those who do not stop working hard in their life, no matter how big trouble they face in their life, achieve success for sure, and Dr. Vivek Bindra has proved something similar. Vivek Bindra was born in the Indian capital of Delhi on April 5, 1982. Dr. Vivek Bindra is one of today's most well-known motivational speakers, business coaches, and trainers. Vivek Bindra's early life was full of struggle when he was 2.5 years old; he lost his father. Despite this, he inspired millions of people through his speeches and business training. Today big business tycoons consult Vivek Bindra and take decisions. Vivek Bindra has also won Asia's No. 1 Motivational Speaker Award. Today by adopting the learnings of Vivek Bindra, many drowning businesses and startups have become successful. He has written many books in his life, by reading these books, millions of youths and businessmen try to learn something. Dr. Vivek Bindra: Motivational Speaker is Vivek Bindra's YouTube channel. ",
+        "books":["https://m.media-amazon.com/images/I/515CfVuCtSL.jpg","https://m.media-amazon.com/images/I/51Ad92T389L.jpg","https://m.media-amazon.com/images/I/51U0LDthKmL.jpg"]
     }
 ]

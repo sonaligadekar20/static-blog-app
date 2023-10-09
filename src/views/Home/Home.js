@@ -5,7 +5,7 @@ import "./Home.css"
 
 function Home() {
     return(
-        <div className="main-container">
+        <div >
            <h1>Home</h1> 
            <Link to ="/posts">Posts</Link>
             

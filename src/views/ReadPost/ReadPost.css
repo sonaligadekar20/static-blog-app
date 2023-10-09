@@ -1,0 +1,42 @@
+.readpost-main-container{
+    padding: 5%
+}
+
+.heading-postname{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 40px;
+    letter-spacing: 1px;
+}
+.readpost-container{
+    display: flex;
+    justify-content:space-evenly;
+}
+.image-topspeakers{
+    height: 350px;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+.readpost-information{
+    font-size: 22px;
+    word-spacing: 5px;
+    text-align: justify;
+    margin-left:80px ;
+    margin-top: 20px;
+}
+.subheading{
+    margin-left: 80px;
+    margin-top: 25px;
+    font-size: 27px;
+}
+.subheading-books{
+    font-size: 30px;
+    margin-top: 70px;
+}
+.img-of-books{
+    height: 230px;
+    width: 200px;
+    margin: 50px;
+    margin-top: 30px;
+
+}
