@@ -1,12 +1,35 @@
-.preview-post-card{
+.main-container{
     display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    height: 100%;
-    width:100%;
+    flex-direction: row;
+}
+.heading{
+    font-size: 40px;
+    text-align: center;
+}
+.info-container{
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* flex-wrap: wrap; */
+    /* justify-content: space-around; */
+    /* display:inline-block; */
+    height: 450px;
+    width:330px;
     padding: 10px;
     border: 1px solid #ccc;
-    margin: 10px;
+    /* margin: 10px; */
     overflow: hidden;
     cursor: pointer;
+    margin-top: 50px;
+    
+}
+.speaker-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+    width: 300px;
+    border-radius: 10px;
+}
+.speaker-name{
+    font-size: 26px;
 }

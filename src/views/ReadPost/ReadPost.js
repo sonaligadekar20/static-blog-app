@@ -1,8 +1,11 @@
-import React from "react";
+import React, { useEffect } from "react";
+import { useParams } from "react-router-dom";
 
 function ReadPost() {
+    const {id} = useParams()
+
     return(
-        <div>ReadPost</div>
+        <div>ReadPost{id}</div>
     )
 }
 

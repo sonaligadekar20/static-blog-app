@@ -1,8 +1,8 @@
 import  ReactDOM  from 'react-dom/client';
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from './views/Home/Home'
-import Posts from './views/Posts/Posts';
-import ReadPost from './views/ReadPost/ReadPost';
+import Post from './views/Posts/Posts'
+import ReadPost from './views/ReadPost/ReadPost'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
@@ -13,11 +13,16 @@ const router = createBrowserRouter([
     },
     {
         path: '/posts',
-        element: <Posts/>
+        element: <Post/>
     },
     {
-        path: '/read',
-        element: <ReadPost/>
+        path: '/post/read/:id', 
+        element:<ReadPost/>                
+      
+    },
+    {
+        path: '*',
+        element:<div>Not Found</div>
     }
 
 
