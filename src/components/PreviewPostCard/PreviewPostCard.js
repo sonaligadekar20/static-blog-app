@@ -9,7 +9,7 @@ function PreviewPostCard({ id, name, image, description }) {
                 <img src={image} alt="" className='speaker-image' />
                 <p className='speaker-name'>{name}</p>
                 <p className='about-description'>{(description)}</p>
-                <Link to={`/post/read/${id}`}>Read More</Link>        
+                <Link to={`/post/read/${id}`}><button className="btn">Read More</button></Link>        
             </div>
         </div>
 

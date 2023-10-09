@@ -1,4 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.post-main-container{
+    background-image: url("https://img.freepik.com/premium-vector/liar-businessman-speaking-podium_305186-28.jpg");
+    height: 500px;
+    background-size: cover;
+    opacity: 0.9;
+}
+.main-heading{
+    font-size: 55px;
+    font-weight: bold;
+    /* color: white; */
+    position: absolute;
+    top: 170px;
+    text-align: center;
+    right: 250px;
+    letter-spacing: 1px;
+}
 .post-container{
     display: flex;
     justify-content:space-evenly;
+    margin-top: 35px;
+
 }

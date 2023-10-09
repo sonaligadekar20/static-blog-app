@@ -5,7 +5,12 @@ import './Posts.css'
 function Posts() {
     return(
         <div>
-            <h1 className="heading">Motivational Speaker</h1>
+            <div className="post-main-container" >
+                <p className="main-heading">Top Motivational Speakers <br/> In India</p>
+
+            </div>
+
+            {/* <h1 className="heading">Motivational Speaker</h1> */}
            <div className="post-container">
            {
                 blogData.map((post, index)=>{
